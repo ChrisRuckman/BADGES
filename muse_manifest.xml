@@ -1,0 +1,271 @@
+<manifest alg="2" build="8" opt="true">
+  <folder name="css">
+    <file name="site_global.css" crc="4262072994"/>
+    <file name="master_a-master.css" crc="304032432" ref="index:about:contact:badging-topics:credits:backpack:badging"/>
+    <file name="index.css" crc="448968748" ref="index"/>
+    <file name="about.css" crc="211870053" ref="about"/>
+    <file name="contact.css" crc="56599623" ref="contact"/>
+    <file name="badging-topics.css" crc="386181748" ref="badging-topics"/>
+    <file name="iefonts_badging-topics.css" crc="211117427" ref="badging-topics"/>
+    <file name="credits.css" crc="4149718749" ref="credits"/>
+    <file name="backpack.css" crc="360209920" ref="backpack"/>
+    <file name="iefonts_backpack.css" crc="12088328" ref="backpack"/>
+    <file name="iefonts_about.css" crc="36136279" ref="about"/>
+    <file name="badging.css" crc="3859385860" ref="badging"/>
+    <file name="iefonts_badging.css" crc="3947620821" ref="badging"/>
+  </folder>
+  <folder name="assets">
+    <folder name="bggear_sm">
+      <folder name="edge_includes">
+        <file name="edge.1.5.0.min.js" crc="278316596" mt="1368551039000"/>
+        <file name="jquery-1.7.1.min.js" crc="111770969" mt="1368551039000"/>
+      </folder>
+      <folder name="images">
+        <file name="1arm.png" crc="3868911513" mt="1368551039000"/>
+        <file name="animate_gear1.png" crc="4061555870" mt="1368551039000"/>
+        <file name="animate_gear2.png" crc="4017459646" mt="1368551039000"/>
+        <file name="ARM2.png" crc="264611967" mt="1368551039000"/>
+        <file name="arm3.png" crc="363415540" mt="1368551039000"/>
+        <file name="corner-gearsbig2.png" crc="164920700" mt="1368551039000"/>
+        <file name="gear_XL.png" crc="4004144397" mt="1368551039000"/>
+        <file name="Poster.png" crc="378207334" mt="1368551039000"/>
+        <file name="Poster2.png" crc="375141602" mt="1368551039000"/>
+      </folder>
+      <file name="bggear_sm_edge.js" crc="235827283" mt="1368551039000"/>
+      <file name="bggear_sm_edgeActions.js" crc="3835209703" mt="1368551039000"/>
+      <file name="bggear_sm_edgePreload.js" crc="3893407997" mt="1368551039000"/>
+      <file name="bggear_sm.html" crc="3928120726" mt="1368551039000"/>
+    </folder>
+    <folder name="bggear1">
+      <folder name="edge_includes">
+        <file name="edge.1.5.0.min.js" crc="278316596" mt="1366990140000"/>
+        <file name="jquery-1.7.1.min.js" crc="111770969" mt="1366990140000"/>
+      </folder>
+      <folder name="images">
+        <file name="1arm.png" crc="3868911513" mt="1366990140000"/>
+        <file name="animate_gear1.png" crc="3761743088" mt="1366990140000"/>
+        <file name="animate_gear2.png" crc="3779891829" mt="1366990140000"/>
+        <file name="ARM2.png" crc="391103982" mt="1366990140000"/>
+        <file name="arm3.png" crc="363415540" mt="1366990140000"/>
+        <file name="corner-gearsbig.png" crc="4044837835" mt="1366990140000"/>
+        <file name="corner-gearsbig2.png" crc="4044837835" mt="1366990140000"/>
+        <file name="gear_XL.png" crc="4004144397" mt="1366990140000"/>
+        <file name="Poster.png" crc="378207334" mt="1366990140000"/>
+      </folder>
+      <file name="bggear1_edge.js" crc="4258150068" mt="1366990140000"/>
+      <file name="bggear1_edgeActions.js" crc="220385390" mt="1366990140000"/>
+      <file name="bggear1_edgePreload.js" crc="389601030" mt="1366990140000"/>
+      <file name="bggear1.html" crc="139022578" mt="1366990140000"/>
+    </folder>
+    <folder name="badgesscreen">
+      <folder name="edge_includes">
+        <file name="edge.1.5.0.min.js" crc="278316596" mt="1368564686000"/>
+        <file name="jquery-1.7.1.min.js" crc="111770969" mt="1368564686000"/>
+      </folder>
+      <folder name="publish">
+        <folder name="web">
+          <folder name="images">
+            <file name="button_about_w.png" crc="9854759" mt="1368564686000"/>
+            <file name="connector1.png" crc="178080156" mt="1368564686000"/>
+            <file name="gear_waves.png" crc="429869467" mt="1368564686000"/>
+            <file name="gear_XL_coach.png" crc="24045591" mt="1368564686000"/>
+          </folder>
+        </folder>
+      </folder>
+      <folder name="images">
+        <file name="arm.png" crc="355777867" mt="1368564686000"/>
+        <file name="armgear.png" crc="3827542214" mt="1368564686000"/>
+        <file name="bigbgspin.png" crc="3894423540" mt="1368564686000"/>
+        <file name="button_about_active.png" crc="232707121" mt="1368564686000"/>
+        <file name="buttonarm2.png" crc="4072547821" mt="1368564686000"/>
+        <file name="corner-gear-left.png" crc="147480359" mt="1368564686000"/>
+        <file name="corner-gears.png" crc="503191138" mt="1368564686000"/>
+        <file name="corner-gearsbig.png" crc="4044837835" mt="1368564686000"/>
+        <file name="corner-top.png" crc="115493111" mt="1368564686000"/>
+        <file name="corner-top_Big.png" crc="3997391836" mt="1368564686000"/>
+        <file name="Curiosity_Design.png" crc="4216071280" mt="1368564686000"/>
+        <file name="Curiosity_Webquest.png" crc="3758237084" mt="1368564686000"/>
+        <file name="ETEGlobalTempsBadge.png" crc="370007566" mt="1368564686000"/>
+        <file name="Evaluator_Badge.png" crc="4127152798" mt="1368564686000"/>
+        <file name="FlightDynamics.png" crc="71123329" mt="1368564686000"/>
+        <file name="gear_COACH.png" crc="47590866" mt="1368564686000"/>
+        <file name="gear_CURIOSITY.png" crc="4080957453" mt="1368564686000"/>
+        <file name="gear_EVAL.png" crc="93829701" mt="1368564686000"/>
+        <file name="gear_FLIGHT.png" crc="87203912" mt="1368564686000"/>
+        <file name="gear_grandPrize.png" crc="3779806867" mt="1368564686000"/>
+        <file name="gear_GT.png" crc="436484630" mt="1368564686000"/>
+        <file name="gear_GTEMP.png" crc="428323976" mt="1368564686000"/>
+        <file name="gear_L.png" crc="4063277529" mt="1368564686000"/>
+        <file name="gear_L_coach.png" crc="336101589" mt="1368564686000"/>
+        <file name="gear_M.png" crc="3971707005" mt="1368564686000"/>
+        <file name="gear_MENTOR.png" crc="4149501460" mt="1368564686000"/>
+        <file name="gear_ROVER.png" crc="351095861" mt="1368564686000"/>
+        <file name="gear_RW.png" crc="365880383" mt="1368564686000"/>
+        <file name="gear_Selene3.png" crc="4247521251" mt="1368564686000"/>
+        <file name="gear_Selene7.png" crc="313436675" mt="1368564686000"/>
+        <file name="gear_Sm.png" crc="3777297318" mt="1368564686000"/>
+        <file name="gear_top5.png" crc="10374237" mt="1368564686000"/>
+        <file name="gear_waves.png" crc="429869467" mt="1368564686000"/>
+        <file name="gear_XL.png" crc="4004144397" mt="1368564686000"/>
+        <file name="gear_XL_coach.png" crc="3983413707" mt="1368564686000"/>
+        <file name="gear_XL_dark.png" crc="266107195" mt="1368564686000"/>
+        <file name="gear_XL_IW.png" crc="3886165610" mt="1368564686000"/>
+        <file name="gear_XXL.png" crc="518669810" mt="1368564686000"/>
+        <file name="gear_XXL_GP.png" crc="198465902" mt="1368564686000"/>
+        <file name="IW-GrandPrize.png" crc="177748098" mt="1368564686000"/>
+        <file name="IW-Judge.png" crc="4161574921" mt="1368564686000"/>
+        <file name="IW-Mentor.png" crc="320490058" mt="1368564686000"/>
+        <file name="IW-Top5.png" crc="3795673730" mt="1368564686000"/>
+        <file name="IWPhase.png" crc="4286194877" mt="1368564686000"/>
+        <file name="MakingWaves.png" crc="4071003167" mt="1368564686000"/>
+        <file name="metalBG-1024.jpg" crc="133666903" mt="1368564686000"/>
+        <file name="metalbg.jpg" crc="4192557819" mt="1368564686000"/>
+        <file name="metalBG_2.jpg" crc="4099444535" mt="1368564686000"/>
+        <file name="NASA-CMYK_1in.png" crc="4294430741" mt="1368564686000"/>
+        <file name="Poster.png" crc="4209726441" mt="1368564686000"/>
+        <file name="Poster2.png" crc="22012209" mt="1368564686000"/>
+        <file name="Poster3.png" crc="3863623813" mt="1368564686000"/>
+        <file name="Rover_Geometry.png" crc="3926887356" mt="1368564686000"/>
+        <file name="RW-Coach.png" crc="4093963567" mt="1368564686000"/>
+        <file name="RWPhase.png" crc="152245134" mt="1368564686000"/>
+        <file name="text_mentor.png" crc="469232932" mt="1368564686000"/>
+        <file name="1arm.png" crc="3868911513" mt="1368564686000"/>
+        <file name="ARM2.png" crc="4035563826" mt="1368564686000"/>
+        <file name="arm3.png" crc="363415540" mt="1368564686000"/>
+        <file name="button_about.png" crc="398230359" mt="1368564686000"/>
+        <file name="button_about_w.png" crc="9854759" mt="1368564686000"/>
+        <file name="button_contact.png" crc="4091781927" mt="1368564686000"/>
+        <file name="button_contact_active.png" crc="3781008410" mt="1368564686000"/>
+        <file name="button_contact_w.png" crc="3888279668" mt="1368564686000"/>
+        <file name="button_edu.png" crc="71958442" mt="1368564686000"/>
+        <file name="button_edu_active.png" crc="3832036808" mt="1368564686000"/>
+        <file name="button_edu_w.png" crc="296508008" mt="1368564686000"/>
+        <file name="button_home.png" crc="120541625" mt="1368564686000"/>
+        <file name="button_home_active.png" crc="4263562924" mt="1368564686000"/>
+        <file name="button_home_w.png" crc="4161787753" mt="1368564686000"/>
+        <file name="button_how.png" crc="3760281541" mt="1368564686000"/>
+        <file name="button_how_active.png" crc="4130892831" mt="1368564686000"/>
+        <file name="button_how_w.png" crc="306763719" mt="1368564686000"/>
+        <file name="cred_cassie.png" crc="348022057" mt="1368564686000"/>
+        <file name="cred_chris.png" crc="474194371" mt="1368564686000"/>
+        <file name="cred_meri.png" crc="360484863" mt="1368564686000"/>
+        <file name="GEAR_BLUE.png" crc="3913740406" mt="1368564686000"/>
+        <file name="GEAR_RED.png" crc="459825398" mt="1368564686000"/>
+        <file name="header.png" crc="184609588" mt="1368564686000"/>
+        <file name="button_BACKPACK.png" crc="215177745" mt="1368564686000"/>
+        <file name="cred_chuck.png" crc="128393143" mt="1368564686000"/>
+        <file name="TOOLPIC.png" crc="112021226" mt="1368564686000"/>
+        <file name="gear_AA.png" crc="3979328361" mt="1368564686000"/>
+        <file name="gear_Selene3 copy.png" crc="4270308550" mt="1368564686000"/>
+        <file name="gear_Selene7 copy.png" crc="3825016951" mt="1368564686000"/>
+      </folder>
+      <file name="BadgesScreen_edge.js" crc="3921870226" mt="1368564686000"/>
+      <file name="BadgesScreen_edgeActions.js" crc="227677301" mt="1368564686000"/>
+      <file name="BadgesScreen_edgePreload.js" crc="4157962699" mt="1368564686000"/>
+      <file name="BadgesScreen.html" crc="4106209679" mt="1368564686000"/>
+    </folder>
+    <folder name="buttonbadge">
+      <folder name="edge_includes">
+        <file name="edge.1.5.0.min.js" crc="278316596" mt="1366992602000"/>
+        <file name="jquery-1.7.1.min.js" crc="111770969" mt="1366992602000"/>
+      </folder>
+      <folder name="images">
+        <file name="arm.png" crc="355777867" mt="1366992602000"/>
+        <file name="armgear.png" crc="3827542214" mt="1366992602000"/>
+        <file name="bigbgspin.png" crc="3894423540" mt="1366992602000"/>
+        <file name="button_about_active.png" crc="432916659" mt="1366992602000"/>
+        <file name="buttonarm2.png" crc="4072547821" mt="1366992602000"/>
+        <file name="corner-gear-left.png" crc="504109491" mt="1366992602000"/>
+        <file name="corner-gears.png" crc="503191138" mt="1366992602000"/>
+        <file name="corner-gearsbig.png" crc="3879021233" mt="1366992602000"/>
+        <file name="corner-top.png" crc="115493111" mt="1366992602000"/>
+        <file name="corner-top_Big.png" crc="3997391836" mt="1366992602000"/>
+        <file name="Curiosity_Design.png" crc="4216071280" mt="1366992602000"/>
+        <file name="Curiosity_Webquest.png" crc="3758237084" mt="1366992602000"/>
+        <file name="ETEGlobalTempsBadge.png" crc="370007566" mt="1366992602000"/>
+        <file name="Evaluator_Badge.png" crc="4127152798" mt="1366992602000"/>
+        <file name="FlightDynamics.png" crc="71123329" mt="1366992602000"/>
+        <file name="gear_COACH.png" crc="47590866" mt="1366992602000"/>
+        <file name="gear_CURIOSITY.png" crc="4080957453" mt="1366992602000"/>
+        <file name="gear_EVAL.png" crc="93829701" mt="1366992602000"/>
+        <file name="gear_FLIGHT.png" crc="145705540" mt="1366992602000"/>
+        <file name="gear_grandPrize.png" crc="3779806867" mt="1366992602000"/>
+        <file name="gear_GT.png" crc="436484630" mt="1366992602000"/>
+        <file name="gear_GTEMP.png" crc="428323976" mt="1366992602000"/>
+        <file name="gear_L.png" crc="4063277529" mt="1366992602000"/>
+        <file name="gear_L_coach.png" crc="336101589" mt="1366992602000"/>
+        <file name="gear_M.png" crc="3971707005" mt="1366992602000"/>
+        <file name="gear_MENTOR.png" crc="4149501460" mt="1366992602000"/>
+        <file name="gear_ROVER.png" crc="351095861" mt="1366992602000"/>
+        <file name="gear_RW.png" crc="365880383" mt="1366992602000"/>
+        <file name="gear_Selene3.png" crc="335789281" mt="1366992602000"/>
+        <file name="gear_Selene7.png" crc="135613113" mt="1366992602000"/>
+        <file name="gear_Sm.png" crc="3777297318" mt="1366992602000"/>
+        <file name="gear_top5.png" crc="10374237" mt="1366992602000"/>
+        <file name="gear_waves.png" crc="429869467" mt="1366992602000"/>
+        <file name="gear_XL.png" crc="4004144397" mt="1366992602000"/>
+        <file name="gear_XL_coach.png" crc="3983413707" mt="1366992602000"/>
+        <file name="gear_XL_dark.png" crc="266107195" mt="1366992602000"/>
+        <file name="gear_XL_IW.png" crc="3886165610" mt="1366992602000"/>
+        <file name="gear_XXL.png" crc="518669810" mt="1366992602000"/>
+        <file name="gear_XXL_GP.png" crc="198465902" mt="1366992602000"/>
+        <file name="IW-GrandPrize.png" crc="177748098" mt="1366992602000"/>
+        <file name="IW-Judge.png" crc="4161574921" mt="1366992602000"/>
+        <file name="IW-Mentor.png" crc="320490058" mt="1366992602000"/>
+        <file name="IW-Top5.png" crc="3795673730" mt="1366992602000"/>
+        <file name="IWPhase.png" crc="4286194877" mt="1366992602000"/>
+        <file name="MakingWaves.png" crc="4071003167" mt="1366992602000"/>
+        <file name="metalBG-1024.jpg" crc="133666903" mt="1366992602000"/>
+        <file name="metalbg.jpg" crc="4192557819" mt="1366992602000"/>
+        <file name="metalBG_2.jpg" crc="4099444535" mt="1366992602000"/>
+        <file name="NASA-CMYK_1in.png" crc="4294430741" mt="1366992602000"/>
+        <file name="Poster.png" crc="4209726441" mt="1366992602000"/>
+        <file name="Poster2.png" crc="239093030" mt="1366992602000"/>
+        <file name="Poster3.png" crc="4026935116" mt="1366992602000"/>
+        <file name="Rover_Geometry.png" crc="3926887356" mt="1366992602000"/>
+        <file name="RW-Coach.png" crc="4093963567" mt="1366992602000"/>
+        <file name="RWPhase.png" crc="152245134" mt="1366992602000"/>
+        <file name="text_mentor.png" crc="469232932" mt="1366992602000"/>
+      </folder>
+      <file name="buttonbadge_edge.js" crc="4117677503" mt="1366992602000"/>
+      <file name="buttonbadge_edgeActions.js" crc="3848005472" mt="1366992602000"/>
+      <file name="buttonbadge_edgePreload.js" crc="3825671805" mt="1366992602000"/>
+      <file name="buttonbadge.html" crc="4240800707" mt="1366992602000"/>
+    </folder>
+    <file name="parentpermissionunder13.doc" crc="3817520952" mt="1368028700000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:about:contact:badging-topics:credits:backpack:badging"/>
+    <file name="museutils.js" crc="4215913851" ref="index:about:contact:badging-topics:credits:backpack:badging"/>
+    <file name="pie.js" crc="3786417276" ref="index:about:contact:badging-topics:credits:backpack:badging"/>
+    <file name="jquery.musemenu.js" crc="3888647712" ref="index:about:contact:badging-topics:credits:backpack:badging"/>
+    <file name="webpro.js" crc="4060715896" ref="badging-topics"/>
+    <file name="musewpdisclosure.js" crc="225766309" ref="badging-topics"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="3992947277" ref="index"/>
+    <file name="corner-top_big.png" crc="309434987" ref="index:about:contact:badging-topics:credits:backpack:badging"/>
+    <file name="button_about.png" crc="398230359" ref="index:about:contact:badging-topics:credits:backpack:badging"/>
+    <file name="button_home.png" crc="120541625" ref="index:about:contact:badging-topics:credits:backpack:badging"/>
+    <file name="button_how.png" crc="3760281541" ref="index:about:contact:badging-topics:credits:backpack:badging"/>
+    <file name="button_contact.png" crc="4091781927" ref="index:about:contact:badging-topics:credits:backpack:badging"/>
+    <file name="bg_image.jpg" crc="4098614781" ref="index:about:badging-topics:contact:credits:backpack:badging"/>
+    <file name="cred_chris.png" crc="474194371" ref="credits"/>
+    <file name="cred_meri.png" crc="360484863" ref="credits"/>
+    <file name="cred_cassie.png" crc="348022057" ref="credits"/>
+    <file name="nasa-cmyk.png" crc="65975666" ref="index:about:badging-topics:contact:credits:backpack:badging"/>
+    <file name="button_backpack.png" crc="215177745" ref="index:about:badging-topics:contact:credits:backpack:badging"/>
+    <file name="cetlogo_white_sm.png" crc="4125520257" ref="contact"/>
+    <file name="seal-stackedname_horizontal_sm.png" crc="4020236791" ref="contact"/>
+    <file name="cred_chuck.png" crc="128393143" ref="credits"/>
+    <file name="toolpic.png" crc="112021226" ref="backpack"/>
+    <file name="button_badge.png" crc="4018347135" ref="index:about:badging:badging-topics:contact:credits:backpack"/>
+  </folder>
+  <file name="index.html" crc="92320872" mt="1368564694387"/>
+  <file name="about.html" crc="162904955" mt="1368562997940"/>
+  <file name="contact.html" crc="89911985" mt="1368562337886"/>
+  <file name="badging-topics.html" crc="115331891" mt="1368563714282"/>
+  <file name="credits.html" crc="257636269" mt="1368562337888"/>
+  <file name="backpack.html" crc="242791210" mt="1368562337890"/>
+  <file name="badging.html" crc="264266445" mt="1368562337882"/>
+</manifest>

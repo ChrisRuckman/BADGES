@@ -1,0 +1,452 @@
+html
+{
+	background: #FFFFFF url("../images/bg_image.jpg") repeat left top scroll;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1024px;
+	min-height: 764px;
+	border-style: none;
+	border-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+	background: transparent url("../images/bg_image.jpg") repeat center center;
+}
+
+#page_position_content
+{
+	margin-top: -1px;
+	margin-bottom: -3px;
+}
+
+#pu1063
+{
+	width: 0.01px;
+	left: -100px;
+	position: relative;
+}
+
+#u1063
+{
+	z-index: 2;
+	width: 295px;
+	top: 0px;
+	left: 50%;
+	margin-left: 285px;
+}
+
+#u1063_img
+{
+	padding-right: 62px;
+}
+
+#u1683
+{
+	z-index: 20;
+	width: 326px;
+	height: 295px;
+	margin-right: -10000px;
+	margin-top: 512px;
+	left: 871px;
+}
+
+#U2076_animation
+{
+	width: 326px;
+	height: 295px;
+}
+
+#u1755
+{
+	z-index: 21;
+	width: 408px;
+	height: 183px;
+	margin-right: -10000px;
+	margin-top: 620px;
+}
+
+#U3549_animation
+{
+	width: 408px;
+	height: 183px;
+}
+
+#u2310-4
+{
+	z-index: 22;
+	width: 483px;
+	min-height: 46px;
+	margin-right: -10000px;
+	margin-top: 37px;
+	left: 437px;
+}
+
+#u2546-5
+{
+	z-index: 26;
+	width: 434px;
+	min-height: 19px;
+	margin-right: -10000px;
+	margin-top: 23px;
+	left: 437px;
+}
+
+#u2509
+{
+	z-index: 31;
+	width: 81px;
+	margin-right: -10000px;
+	margin-top: 27px;
+	left: 1015px;
+}
+
+#u1033
+{
+	z-index: 33;
+	width: 1024px;
+	height: 768px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 100px;
+}
+
+#U3605_animation
+{
+	width: 1024px;
+	height: 768px;
+	border: none;
+}
+
+#u1419
+{
+	z-index: 34;
+	width: 229px;
+	height: 138px;
+	margin-right: -10000px;
+	left: 118px;
+}
+
+#U2082_animation
+{
+	width: 229px;
+	height: 138px;
+}
+
+#menuu2650
+{
+	z-index: 35;
+	width: 32px;
+	margin-right: -10000px;
+	margin-top: 10px;
+	left: 141px;
+}
+
+#u2724
+{
+	width: 32px;
+	min-height: 67px;
+	margin-right: -10000px;
+}
+
+#u2725
+{
+	width: 32px;
+	background-image: url("../images/button_home.png");
+	padding-bottom: 55px;
+}
+
+#u2725:hover
+{
+	margin: 0px;
+}
+
+#u2727-4
+{
+	width: 32px;
+	min-height: 12px;
+	margin-right: -10000px;
+	top: 27px;
+}
+
+#u2725:hover #u2727-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 12px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2725:active #u2727-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 12px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#menuu2906
+{
+	z-index: 42;
+	width: 40px;
+	margin-right: -10000px;
+	margin-top: 10px;
+	left: 286px;
+}
+
+#u2907
+{
+	width: 40px;
+	min-height: 63px;
+	margin-right: -10000px;
+}
+
+#u2908
+{
+	width: 40px;
+	background-image: url("../images/button_contact.png");
+	padding-bottom: 51px;
+}
+
+#u2909-4
+{
+	width: 40px;
+	min-height: 12px;
+	margin-right: -10000px;
+	top: 25px;
+}
+
+#u2725.MuseMenuActive #u2727-4,#u2908:hover #u2909-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 12px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2908:active #u2909-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 12px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#menuu2739
+{
+	z-index: 49;
+	width: 35px;
+	margin-right: -10000px;
+	margin-top: 55px;
+	left: 155px;
+}
+
+#u2740
+{
+	width: 35px;
+	min-height: 64px;
+	margin-right: -10000px;
+}
+
+#u2741
+{
+	width: 35px;
+	background-image: url("../images/button_about.png");
+	padding-bottom: 52px;
+}
+
+#u2744-4
+{
+	width: 35px;
+	min-height: 12px;
+	margin-right: -10000px;
+	top: 26px;
+}
+
+#u2908.MuseMenuActive #u2909-4,#u2741:hover #u2744-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 12px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2741:active #u2744-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 12px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#menuu2817
+{
+	z-index: 56;
+	width: 32px;
+	margin-right: -10000px;
+	margin-top: 55px;
+	left: 276px;
+}
+
+#u2818
+{
+	width: 32px;
+	min-height: 62px;
+	margin-right: -10000px;
+}
+
+#u2819
+{
+	width: 32px;
+	background-image: url("../images/button_how.png");
+	padding-bottom: 50px;
+}
+
+#u2822-4
+{
+	width: 32px;
+	min-height: 12px;
+	margin-right: -10000px;
+	top: 25px;
+}
+
+#u2741.MuseMenuActive #u2744-4,#u2819:hover #u2822-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 12px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2819:active #u2822-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 12px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#menuu2841
+{
+	z-index: 63;
+	width: 45px;
+	margin-right: -10000px;
+	margin-top: 73px;
+	left: 187px;
+}
+
+#u2842
+{
+	width: 45px;
+	min-height: 66px;
+	margin-right: -10000px;
+}
+
+#u2845
+{
+	width: 45px;
+	background-image: url("../images/button_badge.png");
+	padding-bottom: 54px;
+}
+
+#u2846-4
+{
+	width: 45px;
+	min-height: 12px;
+	margin-right: -10000px;
+	top: 27px;
+}
+
+#u2819.MuseMenuActive #u2822-4,#u2845:hover #u2846-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 12px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2845:active #u2846-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 12px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#menuu2936
+{
+	z-index: 70;
+	width: 47px;
+	margin-right: -10000px;
+	margin-top: 73px;
+	left: 233px;
+}
+
+#u2953
+{
+	width: 47px;
+	min-height: 66px;
+	margin-right: -10000px;
+}
+
+#u2954
+{
+	width: 47px;
+	background-image: url("../images/button_backpack.png");
+	padding-bottom: 54px;
+}
+
+#u2725.MuseMenuActive,#u2908.MuseMenuActive,#u2741.MuseMenuActive,#u2819.MuseMenuActive,#u2845.MuseMenuActive,#u2954.MuseMenuActive
+{
+	margin: 0px;
+}
+
+#u2955-4
+{
+	width: 47px;
+	min-height: 12px;
+	margin-right: -10000px;
+	top: 27px;
+}
+
+#u2845.MuseMenuActive #u2846-4,#u2954:hover #u2955-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 12px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2954:active #u2955-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 12px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2954.MuseMenuActive #u2955-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 12px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1364-16
+{
+	z-index: 4;
+	width: 913px;
+	min-height: 26px;
+	margin-left: 91px;
+	margin-top: 10px;
+}
+
+body
+{
+	padding-bottom: 12px;
+}
+
